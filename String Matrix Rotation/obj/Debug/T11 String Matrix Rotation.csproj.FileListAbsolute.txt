@@ -1,0 +1,9 @@
+D:\Dropbox\Softuni Homework\Multidimensional Arrays Sets Dictionaries\String Matrix Rotation\bin\Debug\String Matrix Rotation.exe.config
+D:\Dropbox\Softuni Homework\Multidimensional Arrays Sets Dictionaries\String Matrix Rotation\bin\Debug\String Matrix Rotation.exe
+D:\Dropbox\Softuni Homework\Multidimensional Arrays Sets Dictionaries\String Matrix Rotation\bin\Debug\String Matrix Rotation.pdb
+D:\Dropbox\Softuni Homework\Multidimensional Arrays Sets Dictionaries\String Matrix Rotation\obj\Debug\T11 String Matrix Rotation.csprojResolveAssemblyReference.cache
+D:\Dropbox\Softuni Homework\Multidimensional Arrays Sets Dictionaries\String Matrix Rotation\obj\Debug\String Matrix Rotation.exe
+D:\Dropbox\Softuni Homework\Multidimensional Arrays Sets Dictionaries\String Matrix Rotation\obj\Debug\String Matrix Rotation.pdb
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\String Matrix Rotation\bin\Debug\String Matrix Rotation.exe.config
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\String Matrix Rotation\obj\Debug\String Matrix Rotation.exe
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\String Matrix Rotation\obj\Debug\String Matrix Rotation.pdb

@@ -1,0 +1,15 @@
+C:\Users\kidroca\Desktop\kidroca workspace\SOFT UNI Homeworks\Multidimensional Arrays Sets Dictionaries\Plus-Remove\bin\Debug\Plus-Remove.exe.config
+C:\Users\kidroca\Desktop\kidroca workspace\SOFT UNI Homeworks\Multidimensional Arrays Sets Dictionaries\Plus-Remove\bin\Debug\Plus-Remove.exe
+C:\Users\kidroca\Desktop\kidroca workspace\SOFT UNI Homeworks\Multidimensional Arrays Sets Dictionaries\Plus-Remove\bin\Debug\Plus-Remove.pdb
+C:\Users\kidroca\Desktop\kidroca workspace\SOFT UNI Homeworks\Multidimensional Arrays Sets Dictionaries\Plus-Remove\obj\Debug\T10 Plus-Remove.csprojResolveAssemblyReference.cache
+C:\Users\kidroca\Desktop\kidroca workspace\SOFT UNI Homeworks\Multidimensional Arrays Sets Dictionaries\Plus-Remove\obj\Debug\Plus-Remove.exe
+C:\Users\kidroca\Desktop\kidroca workspace\SOFT UNI Homeworks\Multidimensional Arrays Sets Dictionaries\Plus-Remove\obj\Debug\Plus-Remove.pdb
+D:\Dropbox\Softuni Homework\Multidimensional Arrays Sets Dictionaries\Plus-Remove\bin\Debug\Plus-Remove.exe.config
+D:\Dropbox\Softuni Homework\Multidimensional Arrays Sets Dictionaries\Plus-Remove\obj\Debug\Plus-Remove.exe
+D:\Dropbox\Softuni Homework\Multidimensional Arrays Sets Dictionaries\Plus-Remove\obj\Debug\Plus-Remove.pdb
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\Plus-Remove\bin\Debug\Plus-Remove.exe.config
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\Plus-Remove\obj\Debug\Plus-Remove.exe
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\Plus-Remove\obj\Debug\Plus-Remove.pdb
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\Plus-Remove\bin\Debug\Plus-Remove.exe
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\Plus-Remove\bin\Debug\Plus-Remove.pdb
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\Plus-Remove\obj\Debug\T10 Plus-Remove.csprojResolveAssemblyReference.cache

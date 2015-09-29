@@ -1,0 +1,5 @@
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\Semantic HTML\bin\Debug\Semantic HTML.exe.config
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\Semantic HTML\bin\Debug\Semantic HTML.exe
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\Semantic HTML\bin\Debug\Semantic HTML.pdb
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\Semantic HTML\obj\Debug\Semantic HTML.exe
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\Semantic HTML\obj\Debug\Semantic HTML.pdb

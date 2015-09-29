@@ -1,0 +1,6 @@
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\X Remover\bin\Debug\X Remover.exe.config
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\X Remover\bin\Debug\X Remover.exe
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\X Remover\bin\Debug\X Remover.pdb
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\X Remover\obj\Debug\P6 X Remover.csprojResolveAssemblyReference.cache
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\X Remover\obj\Debug\X Remover.exe
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\X Remover\obj\Debug\X Remover.pdb

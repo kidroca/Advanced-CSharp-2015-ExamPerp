@@ -1,0 +1,6 @@
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Regular Expressions\Query Mess\bin\Debug\Query Mess.exe.config
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Regular Expressions\Query Mess\bin\Debug\Query Mess.exe
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Regular Expressions\Query Mess\bin\Debug\Query Mess.pdb
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Regular Expressions\Query Mess\obj\Debug\Query Mess.csprojResolveAssemblyReference.cache
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Regular Expressions\Query Mess\obj\Debug\Query Mess.exe
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Regular Expressions\Query Mess\obj\Debug\Query Mess.pdb

@@ -1,0 +1,6 @@
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Regular Expressions\Extract Hyperlinks\bin\Debug\Extract Hyperlinks.exe.config
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Regular Expressions\Extract Hyperlinks\obj\Debug\Extract Hyperlinks.csprojResolveAssemblyReference.cache
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Regular Expressions\Extract Hyperlinks\bin\Debug\Extract Hyperlinks.exe
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Regular Expressions\Extract Hyperlinks\bin\Debug\Extract Hyperlinks.pdb
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Regular Expressions\Extract Hyperlinks\obj\Debug\Extract Hyperlinks.exe
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Regular Expressions\Extract Hyperlinks\obj\Debug\Extract Hyperlinks.pdb

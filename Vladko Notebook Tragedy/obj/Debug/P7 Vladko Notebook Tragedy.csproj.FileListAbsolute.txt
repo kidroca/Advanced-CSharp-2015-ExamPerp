@@ -1,0 +1,6 @@
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\Vladko Notebook Tragedy\bin\Debug\Vladko Notebook Tragedy.exe.config
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\Vladko Notebook Tragedy\obj\Debug\Vladko Notebook Tragedy.exe
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\Vladko Notebook Tragedy\obj\Debug\Vladko Notebook Tragedy.pdb
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\Vladko Notebook Tragedy\bin\Debug\Vladko Notebook Tragedy.exe
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\Vladko Notebook Tragedy\bin\Debug\Vladko Notebook Tragedy.pdb
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Exam Preparation\Vladko Notebook Tragedy\obj\Debug\P7 Vladko Notebook Tragedy.csprojResolveAssemblyReference.cache
