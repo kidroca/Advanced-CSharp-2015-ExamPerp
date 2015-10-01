@@ -8,20 +8,20 @@
     /// You can check out the description and submit your solution here
     /// https://judge.softuni.bg/Contests/Practice/Index/84
     /// </summary>
-    class NotebookRecovery
+    internal class NotebookRecovery
     {
-        static SortedSet<string> colors = new SortedSet<string>();
+        private static SortedSet<string> colors = new SortedSet<string>();
 
-        static Dictionary<string, List<string>> opponents =
+        private static Dictionary<string, List<string>> opponents =
             new Dictionary<string, List<string>>();
 
-        static Dictionary<string, Dictionary<string, string>> playerData =
+        private static Dictionary<string, Dictionary<string, string>> playerData =
             new Dictionary<string, Dictionary<string, string>>();
 
-        static Dictionary<string, Dictionary<string, double>> playerWins =
+        private static Dictionary<string, Dictionary<string, double>> playerWins =
             new Dictionary<string, Dictionary<string, double>>();
 
-        static void Main()
+        private static void Main()
         {
             ReadInput();
             PrintResults();
@@ -112,8 +112,8 @@
             opponents.Add(color, new List<string>());
 
             playerData.Add(color, new Dictionary<string, string>());
-            playerData[color]["name"] = String.Empty;
-            playerData[color]["age"] = String.Empty;
+            playerData[color]["name"] = string.Empty;
+            playerData[color]["age"] = string.Empty;
 
             playerWins.Add(color, new Dictionary<string, double>());
             playerWins[color]["win"] = 0;
