@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5 Semantic HTML", "Semanti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P8 Text Gravity", "Text Gravity\P8 Text Gravity.csproj", "{C557752F-070F-41AB-85A4-8819230BFEF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppercase Words", "Uppercase Words\Uppercase Words.csproj", "{7F08E624-2980-4B53-BAE7-9CAA07F6BEA2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T9 Uppercase Words", "Uppercase Words\T9 Uppercase Words.csproj", "{7F08E624-2980-4B53-BAE7-9CAA07F6BEA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
