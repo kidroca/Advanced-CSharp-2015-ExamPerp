@@ -37,8 +37,8 @@
 
             foreach (var line in dataForCleaning)
             {
-
-                resultBuilder.AppendFormat("<p>{0}</p>\n", SecurityElement.Escape(new string(line)));
+                resultBuilder.AppendFormat("<p>{0}</p>", SecurityElement.Escape(new string(line)));
+                resultBuilder.AppendLine();
             }
 
             Console.WriteLine(resultBuilder.ToString());
