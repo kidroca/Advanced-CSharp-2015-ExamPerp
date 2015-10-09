@@ -40,16 +40,11 @@
         {
             var html = new StringBuilder();
 
-            string currentLine = String.Empty;
-            while(currentLine != "END")
+            string currentLine;
+            while((currentLine = Console.ReadLine()) != "END")
             {
-                currentLine = Console.ReadLine();
-                html
-                    .Append(currentLine)
-                    .Append("\n");
+                html.AppendLine(currentLine);
             }
-
-            html.Remove(html.Length - 4, 3);
 
             return html.ToString();
         }
